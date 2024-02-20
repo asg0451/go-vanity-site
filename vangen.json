@@ -1,0 +1,13 @@
+{
+    "domain": "go.coldcutz.net",
+    "repositories": [
+        {
+            "prefix": "go-stuff",
+            "subs": [
+                "utils",
+                "logging"
+            ],
+            "url": "https://github.com/asg0451/go-stuff"
+        }
+    ]
+}
